@@ -10,6 +10,14 @@ This repository contains research documentation and analysis on embodied AI syst
 - [Experimental Results](docs/experimental_results.md) - Detailed breakdown of ReMEmbR's performance in experiments
 - [Real-World Applications](docs/real_world_applications.md) - Case studies of ReMEmbR's deployment in real-world scenarios
 - [Technical Challenges](docs/technical_challenges.md) - Analysis of challenges in long-horizon memory for robot navigation
+- [System Diagrams](docs/system_diagrams.md) - Visual representations of the ReMEmbR architecture and components
+- [Related Work](docs/related_work.md) - Comparative analysis of ReMEmbR and existing approaches
+- [Implementation Guide](docs/implementation_guide.md) - Practical guide for implementing and deploying ReMEmbR
+- [Future Research Roadmap](docs/future_research_roadmap.md) - Strategic roadmap for advancing long-horizon memory systems
+
+## Industry Applications
+
+- [Media Applications](docs/media_applications.md) - How media companies can leverage ReMEmbR for video archives
 
 ## Original Research
 
